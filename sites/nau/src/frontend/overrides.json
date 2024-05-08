@@ -1,3 +1,5 @@
 {
-  "overrides": {}
+  "overrides": {
+    "SyllabusCourseRun/index.tsx": "../../../../../js/widgets/SyllabusCourseRunsList/components/SyllabusCourseRun/index.tsx"
+  }
 }

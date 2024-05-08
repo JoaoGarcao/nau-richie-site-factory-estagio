@@ -142,4 +142,4 @@ services:
 networks:
   lms_outside:
     driver: bridge
-    name: "${RICHIE_LMS_NETWORK:-edx_outside}"
+    # name: "${RICHIE_LMS_NETWORK:-edx_outside}"
